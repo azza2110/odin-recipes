@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Cheese Sandwich</h1>
+    <img src="../cheese-sandwich-image.jpg">
+    <h2>Description</h2>
+    <p>A delicious meal when you can't be bothered to make anything else.</p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>2 slices of white bread</li>
+        <li>2 slices of cheddar cheese
+        <li>Butter</li>
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <li>Butter one side of both slices of bread</li>
+        <li>Stack the 2 slices of cheese on one slice of bread, with butter side up</li>
+        <li>Top the stack with the remaining slice of bread, with butter side down</li>
+    </ol>
+</body>
+</html>

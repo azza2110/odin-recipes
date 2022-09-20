@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Peanut Butter on Toast</h1>
+    <img src="../peanut-butter-toast-image.jpg">
+    <h2>Description</h2>
+    <p>A delicious breakfast when you can't be bothered to make anything else.</p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>2 slices of white bread</li>
+        <li>Crunchy peanut butter</li>
+        <li>Butter</li>
+        <li>Salt</li>
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <li>Butter one side of both pieces of toast</li>
+        <li>Apply peanut butter to the same side of both pieces of toast</li>
+        <li>Sprinkle the toast with the slightest pinch of salt</li>
+    </ol>
+</body>
+</html>
